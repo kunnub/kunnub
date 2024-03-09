@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunn- 👀
 -  I’m interested in programming
-- 🌱 I’m currently learning engineering
+- 🌱 I’m currently pursuing engineering
 - 💞️
 - 📫 How to reach me kunalbobde19@gmail.com
 
